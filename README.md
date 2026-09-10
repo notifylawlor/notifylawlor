@@ -1,16 +1,9 @@
-# NotifyLawlor
+# Phil Lawlor
 
-Next-generation AI solutions for Electronic Health Record (EHR) processing.
+Founder, [Verisource Labs, LLC](https://verisourcelabs.com).
 
-**Focus areas**
-- Clinical workflow streamlining
-- Data interoperability
-- Healthcare data analytics
+CAC Co-Pilot — Cloud Run coding assistant for certified coders. Ann Arbor, Michigan.
 
-**Status:** Currently in stealth mode.  
-**Target launch:** 1Q 2027  
-
-Website: [notifylawlor.com](https://notifylawlor.com)  
-Contact: info@notifylawlor.com
-
-
+- Site: https://verisourcelabs.com
+- Org: https://github.com/verisourcelabs
+- Contact: info@verisourcelabs.com
